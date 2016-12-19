@@ -138,7 +138,7 @@ int main (void)
 
     do
     {
-        cout<<endl<<"Doriti sa setati un bit (s), sa stergeti un bit (c) sau sa parasiti programul (e)?"<<endl;
+        cout<<endl<<"Doriti sa setati un bit (s - set), sa stergeti un bit (c - clear) sau sa parasiti programul (e - exit)?"<<endl;
         cin>>c;
 
         if(c=='s')
